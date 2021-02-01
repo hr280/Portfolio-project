@@ -1,4 +1,4 @@
-name: Github Workflow CI/CD
+name: Portfolio
  
 on:
   push:
